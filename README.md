@@ -1,732 +1,80 @@
-Contribution: 2017-01-28 20:00
+# Introduction
 
-Contribution: 2017-01-30 20:00
+Youpez (youpez-admin) is a highly customizable, flexible NextGen Angular UI admin template with custom made real life application UI/UX/Layouts
 
-Contribution: 2017-01-30 20:01
+In Youpez we collected the best UI solutions/libraries for your next awesome admin project. It contains the current and future best practices from the frontend world.
 
-Contribution: 2017-01-30 20:02
+Motivation behind Youpez creating a futuristic and well usable **FREE** Admin application template which is different from other average templates.
 
-Contribution: 2017-01-30 20:03
+![preview](http://landing.youpez.flatedgethemes.com/static/mainpic-ceb50dc3ea0c04e923155fe38c8fafac.png)
 
-Contribution: 2017-02-01 20:00
+![preview2](http://landing.youpez.flatedgethemes.com/static/dark-b3278e9b4f8ec3f59b72c5b99aae5ff7.png)
 
-Contribution: 2017-02-01 20:01
+[Checkout the online demo](https://youpez.vercel.app/)
 
-Contribution: 2017-02-01 20:02
+> As a developer, I would love to see startuppers, entrepreneurs and developers are creating awesome projects and applications with/based on this template.
+> I wanted to build a free premium template so that developers could save more time and be inspired by the enterprise-ready built-in-apps and solutions
+> ... and a huge shoutout to IBM's Carbon-Design-System team, they are awesome :)
 
-Contribution: 2017-02-01 20:03
+## Key Features
 
-Contribution: 2017-02-04 20:00
+- Customizable & flexible design
+- Unique and futuristic UI
+- Resizable layout elements
+- Pre-built and ready to use application and page designs
+- Ready to use content layouts
+- Custom components for admin panel specific use cases
+- Starter app layout ideas included for faster development
+- Dark and Light color theme support
 
-Contribution: 2017-02-04 20:01
+## Core libraries
 
-Contribution: 2017-02-04 20:02
+- Angular 11+
+- Angular Flex
+- Carbon Design System & Components (carbon-components-angular)
+- TailwindCSS
+- Echarts
+- Ag-Grid
 
-Contribution: 2017-02-04 20:03
+### Built-in applications
 
-Contribution: 2017-02-08 20:00
+- Company Dashboard
+- Data Analytics Dashboard
+- Stocks / Crypto
+- SCRUM Board
+- Tasks
+- File Manager
+- Mail
+- Messages
 
-Contribution: 2017-02-08 20:01
+### Pages
 
-Contribution: 2017-02-08 20:02
+A huge collection of usable pages. Check the demo!
 
-Contribution: 2017-02-08 20:03
+### Documentation
 
-Contribution: 2017-02-10 20:00
+Detailed documentation is being written, but it is super easy to understand if you familiar with angular
 
-Contribution: 2017-02-10 20:01
+---
 
-Contribution: 2017-03-04 20:00
+## Setup
 
-Contribution: 2017-03-04 20:01
+This project was generated with [Angular CLI] version 10.0.2.
 
-Contribution: 2017-03-04 20:02
+## Development server
 
-Contribution: 2017-03-04 20:03
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Contribution: 2017-03-17 20:00
+## Code scaffolding
 
-Contribution: 2017-03-17 20:01
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Contribution: 2017-03-17 20:02
+## Build
 
-Contribution: 2017-03-18 20:00
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Contribution: 2017-03-19 20:00
+---
 
-Contribution: 2017-03-19 20:01
+## Copyright and license
 
-Contribution: 2017-03-21 20:00
-
-Contribution: 2017-03-21 20:01
-
-Contribution: 2017-03-24 20:00
-
-Contribution: 2017-03-24 20:01
-
-Contribution: 2017-03-24 20:02
-
-Contribution: 2017-03-24 20:03
-
-Contribution: 2017-03-27 20:00
-
-Contribution: 2017-03-27 20:01
-
-Contribution: 2017-03-29 20:00
-
-Contribution: 2017-03-29 20:01
-
-Contribution: 2017-03-29 20:02
-
-Contribution: 2017-03-29 20:03
-
-Contribution: 2017-03-30 20:00
-
-Contribution: 2017-03-30 20:01
-
-Contribution: 2017-03-31 20:00
-
-Contribution: 2017-04-02 20:00
-
-Contribution: 2017-04-02 20:01
-
-Contribution: 2017-04-03 20:00
-
-Contribution: 2017-04-03 20:01
-
-Contribution: 2017-04-03 20:02
-
-Contribution: 2017-04-04 20:00
-
-Contribution: 2017-04-04 20:01
-
-Contribution: 2017-04-04 20:02
-
-Contribution: 2017-04-06 20:00
-
-Contribution: 2017-04-09 20:00
-
-Contribution: 2017-04-09 20:01
-
-Contribution: 2017-04-09 20:02
-
-Contribution: 2017-04-09 20:03
-
-Contribution: 2017-04-16 20:00
-
-Contribution: 2017-04-16 20:01
-
-Contribution: 2017-04-20 20:00
-
-Contribution: 2017-04-20 20:01
-
-Contribution: 2017-04-20 20:02
-
-Contribution: 2017-04-20 20:03
-
-Contribution: 2017-04-26 20:00
-
-Contribution: 2017-04-26 20:01
-
-Contribution: 2017-04-26 20:02
-
-Contribution: 2017-04-28 20:00
-
-Contribution: 2017-04-28 20:01
-
-Contribution: 2017-04-28 20:02
-
-Contribution: 2017-04-28 20:03
-
-Contribution: 2017-04-30 20:00
-
-Contribution: 2017-04-30 20:01
-
-Contribution: 2017-05-06 20:00
-
-Contribution: 2017-05-07 20:00
-
-Contribution: 2017-05-11 20:00
-
-Contribution: 2017-05-11 20:01
-
-Contribution: 2017-05-12 20:00
-
-Contribution: 2017-05-12 20:01
-
-Contribution: 2017-05-12 20:02
-
-Contribution: 2017-05-12 20:03
-
-Contribution: 2017-05-16 20:00
-
-Contribution: 2017-05-18 20:00
-
-Contribution: 2017-05-18 20:01
-
-Contribution: 2017-05-18 20:02
-
-Contribution: 2017-05-19 20:00
-
-Contribution: 2017-05-19 20:01
-
-Contribution: 2017-05-22 20:00
-
-Contribution: 2017-05-22 20:01
-
-Contribution: 2017-05-22 20:02
-
-Contribution: 2017-05-22 20:03
-
-Contribution: 2017-05-24 20:00
-
-Contribution: 2017-05-24 20:01
-
-Contribution: 2017-05-29 20:00
-
-Contribution: 2017-06-03 20:00
-
-Contribution: 2017-06-03 20:01
-
-Contribution: 2017-06-03 20:02
-
-Contribution: 2017-06-03 20:03
-
-Contribution: 2017-06-06 20:00
-
-Contribution: 2017-06-06 20:01
-
-Contribution: 2017-06-06 20:02
-
-Contribution: 2017-06-08 20:00
-
-Contribution: 2017-06-08 20:01
-
-Contribution: 2017-06-12 20:00
-
-Contribution: 2017-06-12 20:01
-
-Contribution: 2017-06-12 20:02
-
-Contribution: 2017-06-15 20:00
-
-Contribution: 2017-06-18 20:00
-
-Contribution: 2017-06-18 20:01
-
-Contribution: 2017-06-18 20:02
-
-Contribution: 2017-06-21 20:00
-
-Contribution: 2017-06-21 20:01
-
-Contribution: 2017-06-23 20:00
-
-Contribution: 2017-06-23 20:01
-
-Contribution: 2017-06-24 20:00
-
-Contribution: 2017-06-24 20:01
-
-Contribution: 2017-06-26 20:00
-
-Contribution: 2017-06-26 20:01
-
-Contribution: 2017-06-26 20:02
-
-Contribution: 2017-07-01 20:00
-
-Contribution: 2017-07-01 20:01
-
-Contribution: 2017-07-02 20:00
-
-Contribution: 2017-07-03 20:00
-
-Contribution: 2017-07-03 20:01
-
-Contribution: 2017-07-04 20:00
-
-Contribution: 2017-07-11 20:00
-
-Contribution: 2017-07-14 20:00
-
-Contribution: 2017-07-14 20:01
-
-Contribution: 2017-07-14 20:02
-
-Contribution: 2017-07-14 20:03
-
-Contribution: 2017-07-16 20:00
-
-Contribution: 2017-07-16 20:01
-
-Contribution: 2017-07-21 20:00
-
-Contribution: 2017-07-21 20:01
-
-Contribution: 2017-07-21 20:02
-
-Contribution: 2017-07-29 20:00
-
-Contribution: 2017-07-29 20:01
-
-Contribution: 2017-07-31 20:00
-
-Contribution: 2017-08-03 20:00
-
-Contribution: 2017-08-03 20:01
-
-Contribution: 2017-08-03 20:02
-
-Contribution: 2017-08-03 20:03
-
-Contribution: 2017-08-08 20:00
-
-Contribution: 2017-08-08 20:01
-
-Contribution: 2017-08-08 20:02
-
-Contribution: 2017-08-09 20:00
-
-Contribution: 2017-08-17 20:00
-
-Contribution: 2017-09-03 20:00
-
-Contribution: 2017-09-03 20:01
-
-Contribution: 2017-09-03 20:02
-
-Contribution: 2017-09-03 20:03
-
-Contribution: 2017-09-07 20:00
-
-Contribution: 2017-09-07 20:01
-
-Contribution: 2017-09-07 20:02
-
-Contribution: 2017-09-07 20:03
-
-Contribution: 2017-09-09 20:00
-
-Contribution: 2017-09-09 20:01
-
-Contribution: 2017-09-09 20:02
-
-Contribution: 2017-09-13 20:00
-
-Contribution: 2017-09-16 20:00
-
-Contribution: 2017-09-20 20:00
-
-Contribution: 2017-09-20 20:01
-
-Contribution: 2017-09-20 20:02
-
-Contribution: 2017-09-20 20:03
-
-Contribution: 2017-09-22 20:00
-
-Contribution: 2017-09-22 20:01
-
-Contribution: 2017-09-22 20:02
-
-Contribution: 2017-09-22 20:03
-
-Contribution: 2017-09-27 20:00
-
-Contribution: 2017-09-27 20:01
-
-Contribution: 2017-09-27 20:02
-
-Contribution: 2017-09-29 20:00
-
-Contribution: 2017-09-29 20:01
-
-Contribution: 2017-09-29 20:02
-
-Contribution: 2017-10-11 20:00
-
-Contribution: 2017-10-11 20:01
-
-Contribution: 2017-10-11 20:02
-
-Contribution: 2017-10-11 20:03
-
-Contribution: 2017-10-13 20:00
-
-Contribution: 2017-10-30 20:00
-
-Contribution: 2017-10-30 20:01
-
-Contribution: 2017-10-30 20:02
-
-Contribution: 2017-10-31 20:00
-
-Contribution: 2017-11-01 20:00
-
-Contribution: 2017-11-01 20:01
-
-Contribution: 2017-11-01 20:02
-
-Contribution: 2017-11-01 20:03
-
-Contribution: 2017-11-02 20:00
-
-Contribution: 2017-11-02 20:01
-
-Contribution: 2017-11-02 20:02
-
-Contribution: 2017-11-03 20:00
-
-Contribution: 2017-11-04 20:00
-
-Contribution: 2017-11-04 20:01
-
-Contribution: 2017-11-04 20:02
-
-Contribution: 2017-11-05 20:00
-
-Contribution: 2017-11-05 20:01
-
-Contribution: 2017-11-05 20:02
-
-Contribution: 2017-11-05 20:03
-
-Contribution: 2017-11-08 20:00
-
-Contribution: 2017-11-08 20:01
-
-Contribution: 2017-11-08 20:02
-
-Contribution: 2017-11-12 20:00
-
-Contribution: 2017-11-12 20:01
-
-Contribution: 2017-11-12 20:02
-
-Contribution: 2017-11-12 20:03
-
-Contribution: 2017-11-17 20:00
-
-Contribution: 2017-11-17 20:01
-
-Contribution: 2017-11-17 20:02
-
-Contribution: 2017-11-18 20:00
-
-Contribution: 2017-11-18 20:01
-
-Contribution: 2017-11-18 20:02
-
-Contribution: 2017-11-20 20:00
-
-Contribution: 2017-11-20 20:01
-
-Contribution: 2017-11-20 20:02
-
-Contribution: 2017-11-20 20:03
-
-Contribution: 2017-11-22 20:00
-
-Contribution: 2017-11-22 20:01
-
-Contribution: 2017-11-22 20:02
-
-Contribution: 2017-11-22 20:03
-
-Contribution: 2017-11-24 20:00
-
-Contribution: 2017-11-24 20:01
-
-Contribution: 2017-11-24 20:02
-
-Contribution: 2017-11-27 20:00
-
-Contribution: 2017-11-29 20:00
-
-Contribution: 2017-11-29 20:01
-
-Contribution: 2017-11-29 20:02
-
-Contribution: 2017-11-29 20:03
-
-Contribution: 2017-12-01 20:00
-
-Contribution: 2017-12-02 20:00
-
-Contribution: 2017-12-02 20:01
-
-Contribution: 2017-12-02 20:02
-
-Contribution: 2017-12-03 20:00
-
-Contribution: 2017-12-05 20:00
-
-Contribution: 2017-12-06 20:00
-
-Contribution: 2017-12-06 20:01
-
-Contribution: 2017-12-06 20:02
-
-Contribution: 2017-12-06 20:03
-
-Contribution: 2017-12-08 20:00
-
-Contribution: 2017-12-08 20:01
-
-Contribution: 2017-12-08 20:02
-
-Contribution: 2017-12-08 20:03
-
-Contribution: 2017-12-13 20:00
-
-Contribution: 2017-12-16 20:00
-
-Contribution: 2017-12-23 20:00
-
-Contribution: 2017-12-23 20:01
-
-Contribution: 2017-12-23 20:02
-
-Contribution: 2017-12-27 20:00
-
-Contribution: 2017-12-27 20:01
-
-Contribution: 2017-12-27 20:02
-
-Contribution: 2017-12-29 20:00
-
-Contribution: 2017-12-29 20:01
-
-Contribution: 2017-12-29 20:02
-
-Contribution: 2018-01-01 20:00
-
-Contribution: 2018-01-01 20:01
-
-Contribution: 2018-01-01 20:02
-
-Contribution: 2018-01-01 20:03
-
-Contribution: 2018-01-02 20:00
-
-Contribution: 2018-01-02 20:01
-
-Contribution: 2018-01-03 20:00
-
-Contribution: 2018-01-03 20:01
-
-Contribution: 2018-01-03 20:02
-
-Contribution: 2018-01-03 20:03
-
-Contribution: 2018-01-07 20:00
-
-Contribution: 2018-01-07 20:01
-
-Contribution: 2018-01-07 20:02
-
-Contribution: 2018-01-08 20:00
-
-Contribution: 2018-01-08 20:01
-
-Contribution: 2018-01-09 20:00
-
-Contribution: 2018-01-10 20:00
-
-Contribution: 2018-01-10 20:01
-
-Contribution: 2018-01-10 20:02
-
-Contribution: 2018-01-10 20:03
-
-Contribution: 2018-01-12 20:00
-
-Contribution: 2018-01-12 20:01
-
-Contribution: 2018-01-14 20:00
-
-Contribution: 2018-01-14 20:01
-
-Contribution: 2018-01-16 20:00
-
-Contribution: 2018-01-19 20:00
-
-Contribution: 2018-01-19 20:01
-
-Contribution: 2018-01-19 20:02
-
-Contribution: 2018-01-20 20:00
-
-Contribution: 2018-01-21 20:00
-
-Contribution: 2018-01-21 20:01
-
-Contribution: 2018-01-21 20:02
-
-Contribution: 2018-01-28 20:00
-
-Contribution: 2018-01-28 20:01
-
-Contribution: 2018-02-09 20:00
-
-Contribution: 2018-02-09 20:01
-
-Contribution: 2018-02-09 20:02
-
-Contribution: 2018-02-14 20:00
-
-Contribution: 2018-02-14 20:01
-
-Contribution: 2018-02-15 20:00
-
-Contribution: 2018-02-16 20:00
-
-Contribution: 2018-02-16 20:01
-
-Contribution: 2018-02-22 20:00
-
-Contribution: 2018-02-22 20:01
-
-Contribution: 2018-02-22 20:02
-
-Contribution: 2018-02-22 20:03
-
-Contribution: 2018-02-27 20:00
-
-Contribution: 2018-02-27 20:01
-
-Contribution: 2018-03-06 20:00
-
-Contribution: 2018-03-06 20:01
-
-Contribution: 2018-03-06 20:02
-
-Contribution: 2018-03-06 20:03
-
-Contribution: 2018-03-11 20:00
-
-Contribution: 2018-03-11 20:01
-
-Contribution: 2018-03-12 20:00
-
-Contribution: 2018-03-12 20:01
-
-Contribution: 2018-03-12 20:02
-
-Contribution: 2018-03-12 20:03
-
-Contribution: 2018-03-13 20:00
-
-Contribution: 2018-03-13 20:01
-
-Contribution: 2018-03-13 20:02
-
-Contribution: 2018-03-13 20:03
-
-Contribution: 2018-03-16 20:00
-
-Contribution: 2018-03-16 20:01
-
-Contribution: 2018-03-16 20:02
-
-Contribution: 2018-03-17 20:00
-
-Contribution: 2018-03-17 20:01
-
-Contribution: 2018-03-17 20:02
-
-Contribution: 2018-03-22 20:00
-
-Contribution: 2018-03-23 20:00
-
-Contribution: 2018-03-23 20:01
-
-Contribution: 2018-03-25 20:00
-
-Contribution: 2018-03-26 20:00
-
-Contribution: 2018-03-26 20:01
-
-Contribution: 2018-03-26 20:02
-
-Contribution: 2018-03-27 20:00
-
-Contribution: 2018-03-27 20:01
-
-Contribution: 2018-04-02 20:00
-
-Contribution: 2018-04-02 20:01
-
-Contribution: 2018-04-04 20:00
-
-Contribution: 2018-04-05 20:00
-
-Contribution: 2018-04-13 20:00
-
-Contribution: 2018-04-14 20:00
-
-Contribution: 2018-04-14 20:01
-
-Contribution: 2018-04-17 20:00
-
-Contribution: 2018-04-24 20:00
-
-Contribution: 2018-04-24 20:01
-
-Contribution: 2018-04-24 20:02
-
-Contribution: 2018-04-28 20:00
-
-Contribution: 2018-04-28 20:01
-
-Contribution: 2018-04-28 20:02
-
-Contribution: 2018-04-28 20:03
-
-Contribution: 2018-05-01 20:00
-
-Contribution: 2018-05-01 20:01
-
-Contribution: 2018-05-01 20:02
-
-Contribution: 2018-05-03 20:00
-
-Contribution: 2018-05-03 20:01
-
-Contribution: 2018-05-03 20:02
-
-Contribution: 2018-05-03 20:03
-
-Contribution: 2018-05-04 20:00
-
-Contribution: 2018-05-05 20:00
-
-Contribution: 2018-05-05 20:01
-
-Contribution: 2018-05-05 20:02
-
-Contribution: 2018-05-05 20:03
-
-Contribution: 2018-05-07 20:00
-
-Contribution: 2018-05-08 20:00
-
-Contribution: 2018-05-12 20:00
-
-Contribution: 2018-05-20 20:00
-
-Contribution: 2018-05-22 20:00
-
-Contribution: 2018-05-22 20:01
-
-Contribution: 2018-05-22 20:02
-
-Contribution: 2018-05-22 20:03
-
-Contribution: 2018-05-27 20:00
-
-Contribution: 2018-05-27 20:01
-
-Contribution: 2018-05-30 20:00
-
+MIT license with ONE LIMITATION: This template was created for startups, entrepreneurs, developers to help them create their awesome ideas/applications. It is prohibited to redistribute Youpez as stock template.
